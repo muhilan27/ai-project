@@ -1,0 +1,6 @@
+{
+  "name": "Forward Chaining Loan Assessment System",
+  "description": "Forward chaining expert inference engine for multi-pass loan eligibility evaluation with explainable reasoning trails and admin rule management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
